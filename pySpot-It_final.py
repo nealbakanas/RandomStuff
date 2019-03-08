@@ -1,4 +1,4 @@
-from __future__ import print_function
+### Created this to generate cards for the game "Spot it" with pictures of my family members.
 from itertools import *
 import random
 import sys
